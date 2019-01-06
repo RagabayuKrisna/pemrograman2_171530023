@@ -1,0 +1,5 @@
+Praktikum10.Percobaan.Marah
+Praktikum10.Percobaan.Tertawa
+Praktikum10.Percobaan.Bentukwajah
+Praktikum10.Percobaan.Senyum
+Praktikum10.Percobaan.Sedih
